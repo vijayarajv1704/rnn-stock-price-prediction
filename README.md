@@ -134,11 +134,11 @@ plt.show()
 
 ### True Stock Price, Predicted Stock Price vs time
 
-![image](https://github.com/vijayarajv1704/rnn-stock-price-prediction/assets/121303741/82de63bf-9a50-4dd5-ac25-2a20b13ac592)
+![image](https://github.com/vijayarajv1704/rnn-stock-price-prediction/assets/121303741/31826a2b-25fc-4e0a-a196-ae5bf08f297a)
 
 ### Mean Square Error
 
-![image](https://github.com/vijayarajv1704/rnn-stock-price-prediction/assets/121303741/e71c20eb-657a-478d-a5da-ace8c9f1e95d)
+![image](https://github.com/vijayarajv1704/rnn-stock-price-prediction/assets/121303741/e5edb0b3-75a8-45dc-b97f-58c17d2d2df2)
 
 
 ![image](https://github.com/vijayarajv1704/rnn-stock-price-prediction/assets/121303741/c1531f31-7ab7-468b-9fb1-29fd1d5bcf4c)
